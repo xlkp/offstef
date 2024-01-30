@@ -16,7 +16,7 @@
   <samp>
     <a target="_blank" href="http://www.0ff.tech/">「 My Web」</a>
     <br>
-    「 I am a junior web developer from <b>Spain</b> 」
+    ♠️&emsp; I am a junior web developer from <b>Spain</b> ♠️&emsp;
     <br>
     <br>
   </samp>
