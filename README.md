@@ -43,9 +43,9 @@
  
 <p>
   
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code, learn and philosophy<br/><br/>
- 📧 &emsp; Reach me anytime: off.a@aol.com<br/><br/>
+ ♣️ &emsp; Enjoy programming and reading <br/><br/>
+ ♥️ &emsp; Love writing code and philosophy <br/><br/>
+ ♦️ &emsp; Reach me anytime: off.a@aol.com<br/><br/>
  💬 &emsp; Ask me about anything on my twitter
 
 </p>
