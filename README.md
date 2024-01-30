@@ -14,7 +14,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.0ff.tech">「 My Web」</a>
+    <a href="www.0ff.tech">「 My Web」</a>
     <br>
     「 I am a junior web developer from <b>Spain</b> 」
     <br>
