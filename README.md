@@ -7,14 +7,14 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://0ff.tech.com">Stefan</a></b>
+                <b><a target="_blank" href="http://www.0ff.tech/">Stefan</a></b>
         </samp>
 </h3>
 
 
 <p align="center"> 
   <samp>
-    <a href="www.0ff.tech">「 My Web」</a>
+    <a href="http://www.0ff.tech/">「 My Web」</a>
     <br>
     「 I am a junior web developer from <b>Spain</b> 」
     <br>
