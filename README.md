@@ -1,9 +1,6 @@
 <a href="https://komarev.com/ghpvc/?username=offstef">
   <img align="right" src="https://komarev.com/ghpvc/?username=offstef&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
-[![wakatime](https://wakatime.com/badge/user/018d5ab8-e654-4bdd-aac3-22a691ec39ff.svg)](https://wakatime.com/@018d5ab8-e654-4bdd-aac3-22a691ec39ff)
-
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
