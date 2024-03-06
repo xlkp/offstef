@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/offstef/count.svg?"  />
+</div>
+
+###
+
 <h1 align="left">Hi 😈 ! As you can see im offstef, welcome to my cave😂.</h1>
 
 ###
