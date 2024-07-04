@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm offstef</h1>
-<h3 align="center">web software engineer</h3>
+<h1 align="center">Hi 👋, I'm Stefan</h1>
+<h3 align="center">A Romanian Web Software Engineer</h3>
 
 - 🔭 I’m currently working on **Glider(personal wallet manager)**
 
