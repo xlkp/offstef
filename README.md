@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi 😈! I'm offstef, a Web Developer.</h1>
+<h1 align="left">web software engineer</h1>
 
 ###
 
