@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A Romanian Web Software Engineer</h3>
 
-- 🔭 I’m currently working on **Glider(personal wallet manager)**
+- 🔭 I’m currently working on **a personal wallet manager called Glider**
 
 - 👨‍💻 All of my projects are available at [offstef.es](https://offstef.es/)
 
