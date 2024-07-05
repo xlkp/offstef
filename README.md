@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">A Romanian Web Software Engineer</h3>
+<h3 align="center">A Romanian Software Engineer</h3>
 
 - 🔭 I’m currently working on **a personal wallet manager called Glider**
 
