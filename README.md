@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stefan</h1>
 <h3 align="center">A Romanian/Spanish Web Developer</h3>
 
-- 🔭 I’m currently working on **my Porfolio website (this one bellow)**
+- 🔭 I’m currently working at **SOFT QS**
 
-- 👨‍💻 All of my projects are available at [offstef.es](https://offstef.es/)
-
-- 📫 How to reach me **munteanuse@proton.me**
+<!--- 👨‍💻 All of my projects are available at [offstef.es](https://offstef.es/) -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
